@@ -1,0 +1,49 @@
+# Data and large output files — never commit these
+sim_outputs*/
+simulation_results*/
+model_results/
+dashboard_all.html
+physionet.org/
+wget-log
+old/
+.gitignore.save*
+*.csv
+*.rds
+*.npz
+*.pkl
+*.pth
+*.h5
+
+# But keep small index/config files
+!task_index.csv
+!task_index_retry.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+eICU_env/
+
+# R
+.Rhistory
+.RData
+
+# Logs and cluster output
+logs/
+*.out
+*.err
+*.log
+
+# LaTeX build artefacts
+*.aux
+*.bbl
+*.blg
+*.synctex.gz
+
+# OS
+.DS_Store
+Thumbs.db
