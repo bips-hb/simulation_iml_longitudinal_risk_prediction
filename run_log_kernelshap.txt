@@ -1,0 +1,351 @@
+
+----- Repetition 1 of 20, pattern P1 -----
+Prevalence of the outcome: 0.197
+Background: 100 persons
+Ground truth adds up correctly: True
+GRU: test AUC 0.685
+True logit: test AUC 0.677
+TabPFN: test AUC 0.656
+KernelSHAP on true logit: done (0.05 seconds per person)
+KernelSHAP on GRU: done (0.06 seconds per person)
+KernelSHAP on TabPFN: done (31.47 seconds per person)
+
+----- Repetition 1 of 20, pattern P2 -----
+Prevalence of the outcome: 0.166
+Background: 100 persons
+Ground truth adds up correctly: True
+GRU: test AUC 0.773
+True logit: test AUC 0.806
+TabPFN: test AUC 0.821
+KernelSHAP on true logit: done (0.05 seconds per person)
+KernelSHAP on GRU: done (0.07 seconds per person)
+KernelSHAP on TabPFN: done (31.19 seconds per person)
+
+----- Repetition 1 of 20, pattern P3 -----
+Prevalence of the outcome: 0.199
+Background: 100 persons
+Ground truth adds up correctly: True
+GRU: test AUC 0.695
+True logit: test AUC 0.685
+TabPFN: test AUC 0.690
+KernelSHAP on true logit: done (0.05 seconds per person)
+KernelSHAP on GRU: done (0.07 seconds per person)
+KernelSHAP on TabPFN: done (30.78 seconds per person)
+
+----- Repetition 1 of 20, pattern P4 -----
+Prevalence of the outcome: 0.186
+Background: 100 persons
+Ground truth adds up correctly: True
+GRU: test AUC 0.648
+True logit: test AUC 0.646
+TabPFN: test AUC 0.634
+KernelSHAP on true logit: done (0.05 seconds per person)
+KernelSHAP on GRU: done (0.07 seconds per person)
+KernelSHAP on TabPFN: done (30.92 seconds per person)
+
+----- Repetition 1 of 20, pattern P5 -----
+Prevalence of the outcome: 0.214
+Background: 100 persons
+Ground truth adds up correctly: True
+GRU: test AUC 0.338
+True logit: test AUC 0.671
+TabPFN: test AUC 0.662
+KernelSHAP on true logit: done (0.05 seconds per person)
+KernelSHAP on GRU: done (0.04 seconds per person)
+KernelSHAP on TabPFN: done (16.41 seconds per person)
+
+----- Repetition 2 of 20, pattern P1 -----
+Prevalence of the outcome: 0.199
+Background: 100 persons
+Ground truth adds up correctly: True
+GRU: test AUC 0.747
+True logit: test AUC 0.714
+TabPFN: test AUC 0.736
+KernelSHAP on true logit: done (0.05 seconds per person)
+KernelSHAP on GRU: done (0.07 seconds per person)
+KernelSHAP on TabPFN: done (31.16 seconds per person)
+
+----- Repetition 2 of 20, pattern P2 -----
+Prevalence of the outcome: 0.152
+Background: 100 persons
+Ground truth adds up correctly: True
+GRU: test AUC 0.782
+True logit: test AUC 0.796
+TabPFN: test AUC 0.798
+KernelSHAP on true logit: done (0.05 seconds per person)
+KernelSHAP on GRU: done (0.07 seconds per person)
+KernelSHAP on TabPFN: done (30.68 seconds per person)
+
+----- Repetition 2 of 20, pattern P3 -----
+Prevalence of the outcome: 0.191
+Background: 100 persons
+Ground truth adds up correctly: True
+GRU: test AUC 0.635
+True logit: test AUC 0.641
+TabPFN: test AUC 0.638
+KernelSHAP on true logit: done (0.05 seconds per person)
+KernelSHAP on GRU: done (0.07 seconds per person)
+KernelSHAP on TabPFN: done (30.74 seconds per person)
+
+----- Repetition 2 of 20, pattern P4 -----
+Prevalence of the outcome: 0.196
+Background: 100 persons
+Ground truth adds up correctly: True
+GRU: test AUC 0.645
+True logit: test AUC 0.660
+TabPFN: test AUC 0.654
+KernelSHAP on true logit: done (0.05 seconds per person)
+KernelSHAP on GRU: done (0.07 seconds per person)
+KernelSHAP on TabPFN: done (30.71 seconds per person)
+
+----- Repetition 2 of 20, pattern P5 -----
+Prevalence of the outcome: 0.216
+Background: 100 persons
+Ground truth adds up correctly: True
+GRU: test AUC 0.654
+True logit: test AUC 0.661
+TabPFN: test AUC 0.658
+KernelSHAP on true logit: done (0.05 seconds per person)
+KernelSHAP on GRU: done (0.04 seconds per person)
+KernelSHAP on TabPFN: done (16.95 seconds per person)
+
+----- Repetition 3 of 20, pattern P1 -----
+Prevalence of the outcome: 0.203
+Background: 100 persons
+Ground truth adds up correctly: True
+GRU: test AUC 0.637
+True logit: test AUC 0.637
+TabPFN: test AUC 0.618
+KernelSHAP on true logit: done (0.05 seconds per person)
+KernelSHAP on GRU: done (0.07 seconds per person)
+KernelSHAP on TabPFN: done (30.97 seconds per person)
+
+----- Repetition 3 of 20, pattern P2 -----
+Prevalence of the outcome: 0.155
+Background: 100 persons
+Ground truth adds up correctly: True
+GRU: test AUC 0.668
+True logit: test AUC 0.678
+TabPFN: test AUC 0.688
+KernelSHAP on true logit: done (0.05 seconds per person)
+KernelSHAP on GRU: done (0.07 seconds per person)
+KernelSHAP on TabPFN: done (30.79 seconds per person)
+
+----- Repetition 3 of 20, pattern P3 -----
+Prevalence of the outcome: 0.198
+Background: 100 persons
+Ground truth adds up correctly: True
+GRU: test AUC 0.646
+True logit: test AUC 0.672
+TabPFN: test AUC 0.666
+KernelSHAP on true logit: done (0.05 seconds per person)
+KernelSHAP on GRU: done (0.07 seconds per person)
+KernelSHAP on TabPFN: done (31.19 seconds per person)
+
+----- Repetition 3 of 20, pattern P4 -----
+Prevalence of the outcome: 0.218
+Background: 100 persons
+Ground truth adds up correctly: True
+GRU: test AUC 0.663
+True logit: test AUC 0.666
+TabPFN: test AUC 0.699
+KernelSHAP on true logit: done (0.05 seconds per person)
+KernelSHAP on GRU: done (0.07 seconds per person)
+KernelSHAP on TabPFN: done (31.07 seconds per person)
+
+----- Repetition 3 of 20, pattern P5 -----
+Prevalence of the outcome: 0.209
+Background: 100 persons
+Ground truth adds up correctly: True
+GRU: test AUC 0.602
+True logit: test AUC 0.591
+TabPFN: test AUC 0.601
+KernelSHAP on true logit: done (0.05 seconds per person)
+KernelSHAP on GRU: done (0.07 seconds per person)
+KernelSHAP on TabPFN: done (30.17 seconds per person)
+
+----- Repetition 4 of 20, pattern P1 -----
+Prevalence of the outcome: 0.211
+Background: 100 persons
+Ground truth adds up correctly: True
+GRU: test AUC 0.629
+True logit: test AUC 0.648
+TabPFN: test AUC 0.640
+KernelSHAP on true logit: done (0.05 seconds per person)
+KernelSHAP on GRU: done (0.07 seconds per person)
+KernelSHAP on TabPFN: done (30.86 seconds per person)
+
+----- Repetition 4 of 20, pattern P2 -----
+Prevalence of the outcome: 0.172
+Background: 100 persons
+Ground truth adds up correctly: True
+GRU: test AUC 0.716
+True logit: test AUC 0.731
+TabPFN: test AUC 0.723
+KernelSHAP on true logit: done (0.05 seconds per person)
+KernelSHAP on GRU: done (0.07 seconds per person)
+KernelSHAP on TabPFN: done (30.59 seconds per person)
+
+----- Repetition 4 of 20, pattern P3 -----
+Prevalence of the outcome: 0.193
+Background: 100 persons
+Ground truth adds up correctly: True
+GRU: test AUC 0.527
+True logit: test AUC 0.562
+TabPFN: test AUC 0.557
+KernelSHAP on true logit: done (0.05 seconds per person)
+KernelSHAP on GRU: done (0.07 seconds per person)
+KernelSHAP on TabPFN: done (30.61 seconds per person)
+
+----- Repetition 4 of 20, pattern P4 -----
+Prevalence of the outcome: 0.200
+Background: 100 persons
+Ground truth adds up correctly: True
+GRU: test AUC 0.542
+True logit: test AUC 0.617
+TabPFN: test AUC 0.552
+KernelSHAP on true logit: done (0.05 seconds per person)
+KernelSHAP on GRU: done (0.06 seconds per person)
+KernelSHAP on TabPFN: done (31.15 seconds per person)
+
+----- Repetition 4 of 20, pattern P5 -----
+Prevalence of the outcome: 0.261
+Background: 100 persons
+Ground truth adds up correctly: True
+GRU: test AUC 0.716
+True logit: test AUC 0.704
+TabPFN: test AUC 0.701
+KernelSHAP on true logit: done (0.04 seconds per person)
+KernelSHAP on GRU: done (0.02 seconds per person)
+KernelSHAP on TabPFN: done (10.64 seconds per person)
+
+----- Repetition 5 of 20, pattern P1 -----
+Prevalence of the outcome: 0.213
+Background: 100 persons
+Ground truth adds up correctly: True
+GRU: test AUC 0.625
+True logit: test AUC 0.635
+TabPFN: test AUC 0.628
+KernelSHAP on true logit: done (0.05 seconds per person)
+KernelSHAP on GRU: done (0.07 seconds per person)
+KernelSHAP on TabPFN: done (30.64 seconds per person)
+
+----- Repetition 5 of 20, pattern P2 -----
+Prevalence of the outcome: 0.143
+Background: 100 persons
+Ground truth adds up correctly: True
+GRU: test AUC 0.728
+True logit: test AUC 0.721
+TabPFN: test AUC 0.730
+KernelSHAP on true logit: done (0.05 seconds per person)
+KernelSHAP on GRU: done (0.07 seconds per person)
+KernelSHAP on TabPFN: done (30.92 seconds per person)
+
+----- Repetition 5 of 20, pattern P3 -----
+Prevalence of the outcome: 0.210
+Background: 100 persons
+Ground truth adds up correctly: True
+GRU: test AUC 0.664
+True logit: test AUC 0.658
+TabPFN: test AUC 0.697
+KernelSHAP on true logit: done (0.05 seconds per person)
+KernelSHAP on GRU: done (0.07 seconds per person)
+KernelSHAP on TabPFN: done (30.66 seconds per person)
+
+----- Repetition 5 of 20, pattern P4 -----
+Prevalence of the outcome: 0.208
+Background: 100 persons
+Ground truth adds up correctly: True
+GRU: test AUC 0.558
+True logit: test AUC 0.644
+TabPFN: test AUC 0.635
+KernelSHAP on true logit: done (0.05 seconds per person)
+KernelSHAP on GRU: done (0.07 seconds per person)
+KernelSHAP on TabPFN: done (30.41 seconds per person)
+
+----- Repetition 5 of 20, pattern P5 -----
+Prevalence of the outcome: 0.221
+Background: 100 persons
+Ground truth adds up correctly: True
+GRU: test AUC 0.524
+True logit: test AUC 0.550
+TabPFN: test AUC 0.555
+KernelSHAP on true logit: done (0.05 seconds per person)
+KernelSHAP on GRU: done (0.05 seconds per person)
+KernelSHAP on TabPFN: done (21.23 seconds per person)
+
+----- Repetition 6 of 20, pattern P1 -----
+Prevalence of the outcome: 0.198
+Background: 100 persons
+Ground truth adds up correctly: True
+GRU: test AUC 0.765
+True logit: test AUC 0.734
+TabPFN: test AUC 0.739
+KernelSHAP on true logit: done (0.05 seconds per person)
+KernelSHAP on GRU: done (0.07 seconds per person)
+KernelSHAP on TabPFN: done (30.59 seconds per person)
+
+----- Repetition 6 of 20, pattern P2 -----
+Prevalence of the outcome: 0.156
+Background: 100 persons
+Ground truth adds up correctly: True
+GRU: test AUC 0.607
+True logit: test AUC 0.618
+TabPFN: test AUC 0.580
+KernelSHAP on true logit: done (0.05 seconds per person)
+KernelSHAP on GRU: done (0.07 seconds per person)
+KernelSHAP on TabPFN: done (30.52 seconds per person)
+
+----- Repetition 6 of 20, pattern P3 -----
+Prevalence of the outcome: 0.189
+Background: 100 persons
+Ground truth adds up correctly: True
+GRU: test AUC 0.568
+True logit: test AUC 0.663
+TabPFN: test AUC 0.618
+KernelSHAP on true logit: done (0.05 seconds per person)
+KernelSHAP on GRU: done (0.07 seconds per person)
+KernelSHAP on TabPFN: done (30.65 seconds per person)
+
+----- Repetition 6 of 20, pattern P4 -----
+Prevalence of the outcome: 0.204
+Background: 100 persons
+Ground truth adds up correctly: True
+GRU: test AUC 0.702
+True logit: test AUC 0.708
+TabPFN: test AUC 0.714
+KernelSHAP on true logit: done (0.05 seconds per person)
+KernelSHAP on GRU: done (0.07 seconds per person)
+KernelSHAP on TabPFN: done (30.11 seconds per person)
+
+----- Repetition 6 of 20, pattern P5 -----
+Prevalence of the outcome: 0.214
+Background: 100 persons
+Ground truth adds up correctly: True
+GRU: test AUC 0.739
+True logit: test AUC 0.753
+TabPFN: test AUC 0.753
+KernelSHAP on true logit: done (0.04 seconds per person)
+KernelSHAP on GRU: done (0.02 seconds per person)
+KernelSHAP on TabPFN: done (6.13 seconds per person)
+
+----- Repetition 7 of 20, pattern P1 -----
+Prevalence of the outcome: 0.193
+Background: 100 persons
+Ground truth adds up correctly: True
+GRU: test AUC 0.711
+True logit: test AUC 0.674
+TabPFN: test AUC 0.646
+KernelSHAP on true logit: done (0.05 seconds per person)
+KernelSHAP on GRU: done (0.06 seconds per person)
+KernelSHAP on TabPFN: done (30.42 seconds per person)
+
+----- Repetition 7 of 20, pattern P2 -----
+Prevalence of the outcome: 0.138
+Background: 100 persons
+Ground truth adds up correctly: True
+GRU: test AUC 0.810
+True logit: test AUC 0.779
+TabPFN: test AUC 0.769
+KernelSHAP on true logit: done (0.05 seconds per person)
+KernelSHAP on GRU: done (0.07 seconds per person)

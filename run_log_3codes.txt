@@ -1,0 +1,132 @@
+
+----- Repetition 1 of 2, pattern P1 -----
+Prevalence of the outcome: 0.197
+Background: 100 persons
+Ground truth adds up correctly: True
+GRU: test AUC 0.685
+True logit: test AUC 0.677
+TabPFN: test AUC 0.656
+KernelSHAP on true logit: done
+KernelSHAP on GRU: done
+KernelSHAP on TabPFN: done
+
+----- Repetition 1 of 2, pattern P2 -----
+Prevalence of the outcome: 0.197
+Background: 100 persons
+Ground truth adds up correctly: True
+GRU: test AUC 0.627
+True logit: test AUC 0.619
+TabPFN: test AUC 0.633
+KernelSHAP on true logit: done
+KernelSHAP on GRU: done
+KernelSHAP on TabPFN: done
+
+----- Repetition 1 of 2, pattern P3 -----
+Prevalence of the outcome: 0.146
+Background: 100 persons
+Ground truth adds up correctly: True
+GRU: test AUC 0.710
+True logit: test AUC 0.727
+TabPFN: test AUC 0.738
+KernelSHAP on true logit: done
+KernelSHAP on GRU: done
+KernelSHAP on TabPFN: done
+
+----- Repetition 1 of 2, pattern P4 -----
+Prevalence of the outcome: 0.188
+Background: 100 persons
+Ground truth adds up correctly: True
+GRU: test AUC 0.627
+True logit: test AUC 0.641
+TabPFN: test AUC 0.636
+KernelSHAP on true logit: done
+KernelSHAP on GRU: done
+KernelSHAP on TabPFN: done
+
+----- Repetition 1 of 2, pattern P5 -----
+Prevalence of the outcome: 0.228
+Background: 100 persons
+Ground truth adds up correctly: True
+GRU: test AUC 0.739
+True logit: test AUC 0.725
+TabPFN: test AUC 0.736
+KernelSHAP on true logit: done
+KernelSHAP on GRU: done
+KernelSHAP on TabPFN: done
+
+----- Repetition 2 of 2, pattern P1 -----
+Prevalence of the outcome: 0.199
+Background: 100 persons
+Ground truth adds up correctly: True
+GRU: test AUC 0.747
+True logit: test AUC 0.714
+TabPFN: test AUC 0.736
+KernelSHAP on true logit: done
+KernelSHAP on GRU: done
+KernelSHAP on TabPFN: done
+
+----- Repetition 2 of 2, pattern P2 -----
+Prevalence of the outcome: 0.199
+Background: 100 persons
+Ground truth adds up correctly: True
+GRU: test AUC 0.739
+True logit: test AUC 0.737
+TabPFN: test AUC 0.723
+KernelSHAP on true logit: done
+KernelSHAP on GRU: done
+KernelSHAP on TabPFN: done
+
+----- Repetition 2 of 2, pattern P3 -----
+Prevalence of the outcome: 0.160
+Background: 100 persons
+Ground truth adds up correctly: True
+GRU: test AUC 0.750
+True logit: test AUC 0.751
+TabPFN: test AUC 0.757
+KernelSHAP on true logit: done
+KernelSHAP on GRU: done
+KernelSHAP on TabPFN: done
+
+----- Repetition 2 of 2, pattern P4 -----
+Prevalence of the outcome: 0.203
+Background: 100 persons
+Ground truth adds up correctly: True
+GRU: test AUC 0.685
+True logit: test AUC 0.646
+TabPFN: test AUC 0.694
+KernelSHAP on true logit: done
+KernelSHAP on GRU: done
+KernelSHAP on TabPFN: done
+
+----- Repetition 2 of 2, pattern P5 -----
+Prevalence of the outcome: 0.221
+Background: 100 persons
+Ground truth adds up correctly: True
+GRU: test AUC 0.619
+True logit: test AUC 0.667
+TabPFN: test AUC 0.642
+KernelSHAP on true logit: done
+KernelSHAP on GRU: done
+KernelSHAP on TabPFN: done
+
+Results over 2 repetitions: mean (SD)
+source                 expected ground truth  true logit           GRU        TabPFN
+pattern key number                                                                  
+P1      cell                1.5    1.5 (0.0)   1.5 (0.0)    1.1 (0.19)   1.36 (0.23)
+        MAE truth != 0        -            -   0.0 (0.0)    0.4 (0.19)   0.18 (0.17)
+        MAE truth = 0         -            -   0.0 (0.0)     0.0 (0.0)    0.01 (0.0)
+P2      cell                0.5    0.5 (0.0)   0.5 (0.0)   0.63 (0.09)    0.51 (0.0)
+        MAE truth != 0        -            -  0.02 (0.0)   0.28 (0.06)    0.2 (0.02)
+        MAE truth = 0         -            -   0.0 (0.0)    0.01 (0.0)    0.01 (0.0)
+P3      MAE truth != 0        -            -   0.0 (0.0)   0.29 (0.06)   0.23 (0.15)
+        MAE truth = 0         -            -   0.0 (0.0)    0.02 (0.0)    0.01 (0.0)
+        visit 8             1.5    1.5 (0.0)   1.5 (0.0)    1.33 (0.6)   1.39 (0.35)
+        visit 10           -1.5   -1.5 (0.0)  -1.5 (0.0)  -1.53 (0.13)  -1.29 (0.15)
+P4      MAE truth != 0        -            -  0.01 (0.0)   0.16 (0.15)   0.23 (0.15)
+        MAE truth = 0         -            -   0.0 (0.0)    0.01 (0.0)    0.01 (0.0)
+        1 occ.              1.5    1.5 (0.0)   1.5 (0.0)   1.28 (0.29)   1.28 (0.39)
+        2 occ.             0.75   0.75 (0.0)  0.75 (0.0)    0.8 (0.05)   0.69 (0.03)
+        3 occ.              0.5    0.5 (0.0)   0.5 (0.0)   0.57 (0.08)    0.4 (0.03)
+P5      MAE truth != 0        -            -   0.0 (0.0)    0.83 (0.3)   0.71 (0.05)
+        MAE truth = 0         -            -   0.0 (0.0)   0.01 (0.01)    0.01 (0.0)
+        share code 2          0    0.0 (0.0)  -0.0 (0.0)   0.47 (0.02)    0.5 (0.01)
